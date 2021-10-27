@@ -1,0 +1,20 @@
+ 
+ @font-face{
+
+ font-family:caligrafia ;
+src: url(../fonts/ChopinScript.ttf);}
+ 
+ body{background-image: url("../images/background.jpg");
+    
+    background-size: 200px 200px;
+                margin: 0;padding: 0;
+         font-family: caligrafia;   }
+ #container{background-color: rgba(37, 124, 206, 0.616);
+                width: 40%;
+         /*   height: 100vh;*/
+            padding:  20px 0;
+            margin: auto;
+            border-radius: 15px;
+        ;
+        text-align: center;
+    font-size: 135%;}
